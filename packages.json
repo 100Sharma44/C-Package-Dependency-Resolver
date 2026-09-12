@@ -1,0 +1,6 @@
+{
+  "javascript-core": [],
+  "react": ["javascript-core"],
+  "axios": ["javascript-core"],
+  "my-app": ["react", "axios"]
+}
